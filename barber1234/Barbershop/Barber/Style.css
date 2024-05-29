@@ -164,15 +164,7 @@ nav ul li a{
 	align-items: center;
 	margin-bottom: 40px;
 }
-.feature-icon .fa{
-	width: 50px;
-	height: 50px;
-	font-size: 30px;
-	line-height: 50px;
-	border-radius: 8px;
-	color: #0a193b;
-	border:1px solid #0a193b;
-}
+
 .feature-text p{
 	padding: 0 20px;
 	text-align: initial;
@@ -308,12 +300,6 @@ hr{
     margin-right: 20px;
     border-radius: 3px;
 }
-.user-info .fa{
-    margin-left: 10px;
-    color: #0a193b;
-    font-size:20px;
-    
-}
 .user-info small{
     color: #0a193b;   
 }
@@ -356,40 +342,10 @@ hr{
 .footer-row p{
     line-height: 35px;
 }
-.footer-left .fa,.footer-right .fa{
-    font-size: 20px;
-    color: #0a193b;
-    margin: 10px;
-}
+
 #map {
   height: 400px;
-  /* The height is 400 pixels */
   width: 100%;
-  /* The width is the width of the web page */
-}
-.social-links{
-    text-align: center;
-}
-.social-links .fa{
-    height: 40px;
-    width: 40px;
-    font-size: 20px;
-    line-height: 40px;
-    border:1px solid #0a193b;
-    margin: 40px 5px 0;
-    color: #0a193b;
-    cursor: pointer;
-    transition: .5s;
-}
-.social-links .fa:hover{
-    background: #0a193b;
-    color: #fff;
-    transform: translateY(-7px);
-
-}
-.social-links p{
-    font-size: 12px;
-    margin-top: 20px;
 }
 @media screen and (max-width: 770px){
     .footer-left.footer-right{
